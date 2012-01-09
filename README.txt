@@ -402,6 +402,7 @@ Key               Command
 M-/               rope-code-assist
 M-?               rope-lucky-assist
 C-c g             rope-goto-definition
+C-c u             rope-pop-mark
 C-c d             rope-show-doc
 C-c f             rope-find-occurrences
 ================  ============================
